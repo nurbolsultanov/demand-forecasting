@@ -1,4 +1,4 @@
-# Demand Forecasting + Anomaly Detection
+[# Demand Forecasting + Anomaly Detection
 
 End-to-end time series forecasting project on Rossmann Store Sales dataset (~1M rows, 1115 stores).
 
@@ -59,4 +59,4 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Download data from Kaggle, place in `data/`, then run notebooks in order.
+Download data from Kaggle, place in `data/`, then run notebooks in order.](https://github.com/nurbolsultanov/demand-forecasting)
